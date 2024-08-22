@@ -9,6 +9,7 @@ public class Main {
             pablo.cumplirAnios();
         }
         System.out.println("pablo tiene " + pablo.decirEdad()+ "años de edad");
+        System.out.println("holaaaa");
         pablo.caminar();
     }
 }
