@@ -10,5 +10,6 @@ public class Main {
 
         System.out.println("la cantidad de vidas del jugador2 "+ jugador2.mostrarVidasRestantes());
         System.out.println("la cantidad de vidas del jugador1 "+ jugador1.mostrarVidasRestantes());
+        System.out.println("hola");
     }
 }
